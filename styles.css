@@ -24,10 +24,20 @@ body{
     text-align: center;
 }
 
+.information{
+    border-top: 6px solid rgb(43, 43, 43);
+}
+
 .banner2{
+    border-top: 6px solid rgb(43, 43, 43);
     text-align: right;
 }
 
+.banner3{
+    border-top: 6px solid rgb(43, 43, 43);
+}
+
 .f-a-q{
+    border-top: 6px solid rgb(43, 43, 43);
     text-align: center; 
 }
