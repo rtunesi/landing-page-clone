@@ -1,0 +1,25 @@
+body{
+    background-color: black;
+    color: white;
+}
+
+.taskbar{
+    display: flex;
+    justify-content: space-between;
+    margin: 10px
+}
+
+.sign-in{
+    background-color: red;
+    color: white;
+    font-size: 18px;
+    height: 35px;
+    border-radius: 5px;
+    border: 0px;
+    margin-top: 12px;
+    margin-right: 8px;
+}
+
+.front-page{
+    text-align: center;
+}
