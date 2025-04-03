@@ -4,13 +4,14 @@ body{
 }
 
 .heading{
-    background-image: url(images/header-img.png)
+    background-image: url(images/header-img.png);
+    background-size: cover;
 }
 
 .taskbar{
     display: flex;
     justify-content: space-between;
-    margin: 10px
+    margin: 10px;
 }
 
 .sign-in{
@@ -26,7 +27,7 @@ body{
 
 .front-page{
     text-align: center;
-    margin-bottom: 10%;
+    padding-bottom: 10%;
 }
 
 .information{
