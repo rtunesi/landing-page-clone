@@ -22,18 +22,25 @@ body{
 
 .front-page{
     text-align: center;
+    margin-bottom: 10%;
 }
 
 .information{
     border-top: 6px solid rgb(43, 43, 43);
 }
 
+.banner1{
+    padding: 3%;
+}
+
 .banner2{
+    padding: 3%;
     border-top: 6px solid rgb(43, 43, 43);
     text-align: right;
 }
 
 .banner3{
+    padding: 3%;
     border-top: 6px solid rgb(43, 43, 43);
 }
 
