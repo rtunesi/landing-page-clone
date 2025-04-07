@@ -62,6 +62,14 @@
     font-weight: 500;
 }
 
+.email-form {
+    display: flex;
+    justify-content: center; /* Center horizontally */
+    gap: 10px; /* Space between input and button */
+    flex-wrap: wrap; /* Optional: allows wrap on smaller screens */
+    margin-top: 20px;
+}
+
 .email-address-button{
     display: inline-block;
     font-family: "Public Sans";
