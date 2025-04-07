@@ -63,17 +63,23 @@
 }
 
 .email-address-button{
+    display: inline-block;
     font-family: "Public Sans";
     background-color: red;
     color: white;
     border: 0px;
+    height: 60px;
+    width: 200px;
 }
 
 .email-input{
+    display: inline-block;
     border-radius: 0px;
     border: 1px grey;
     box-sizing: border-box;
     box-shadow: none;
+    height: 60px;
+    width: 400px;
 }
 /* Top of website end */
 
