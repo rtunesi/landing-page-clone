@@ -96,6 +96,11 @@
 /* Bottom of website start */
 .information{
     border-top: 6px solid rgb(43, 43, 43);
+    font-size: 1.5rem;
+}
+
+.information h3{
+    font-size: 2.5rem;
 }
 
 .banner1{
