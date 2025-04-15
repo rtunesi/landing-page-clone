@@ -118,7 +118,7 @@
 }
 
 .banner1-text{
-    width: 35%
+    width: 35%;
 }
 
 #banner1-img{
@@ -129,8 +129,20 @@
 .banner2{
     padding: 3%;
     border-top: 6px solid rgb(43, 43, 43);
-    text-align: right;
     height: 350px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 5px;
+}
+
+.banner2-text{
+    width: 35%;
+    align-items: right;
+}
+
+#banner2-img{
+    width: 30%;
 }
 
 .banner3{
