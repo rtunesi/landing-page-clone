@@ -107,10 +107,21 @@
     width: 450px;
 }
 
+
 .banner1{
     padding: 3%;
     height: 335px;
-    display: block;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.banner1-text{
+    width: 50%
+}
+
+#banner1-img{
+    float: right;
 }
 
 .banner2{
