@@ -118,11 +118,12 @@
 }
 
 .banner1-text{
-    width: 40%
+    width: 35%
 }
 
 #banner1-img{
     float: right;
+    width: 40%;
 }
 
 .banner2{
@@ -133,11 +134,22 @@
 }
 
 .banner3{
-    padding: 3%;
     border-top: 6px solid rgb(43, 43, 43);
+    padding: 3%;
     height: 350px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
+.banner3-text{
+    width: 35%;
+}
+
+#banner3-img{
+    float: right;
+    width: 40%;
+}
 .f-a-q{
     border-top: 6px solid rgb(43, 43, 43);
     text-align: center; 
