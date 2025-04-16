@@ -166,12 +166,26 @@
 .f-a-q{
     border-top: 6px solid rgb(43, 43, 43);
     text-align: center; 
+    padding: 5%;
+}
+
+.f-a-q h3{
+    font-size: 3.5rem;
 }
 
 .f-a-q ul{
     list-style-type: none;
     padding: 0; /* Removes left padding */
+    padding-top: 10px;
     margin: 0 auto; /* Centers the list */
     display: inline-block; /* Helps with centering */
+    gap: 3px;
 }
 /* Bottom of website end */
+
+/* Footer start */
+footer{
+    border-top: 6px solid rgb(43, 43, 43);
+    color: rgb(107, 107, 107);
+    text-align: center;
+}
