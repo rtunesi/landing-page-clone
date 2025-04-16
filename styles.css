@@ -137,12 +137,13 @@
 }
 
 .banner2-text{
+    align-items: 2;
     width: 35%;
-    align-items: right;
 }
 
 #banner2-img{
     width: 30%;
+    align-items: 1;
 }
 
 .banner3{
